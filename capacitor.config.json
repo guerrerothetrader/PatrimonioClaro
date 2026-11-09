@@ -1,0 +1,11 @@
+{
+  "appId": "com.patrimonioclaro.app",
+  "appName": "Patrimonio Claro",
+  "webDir": "www",
+  "backgroundColor": "#071f40",
+  "android": { "allowMixedContent": false },
+  "plugins": {
+    "SystemBars": { "insetsHandling": "native", "initialViewportFitValueHint": "cover" },
+    "LocalNotifications": { "iconColor": "#0d4a8a" }
+  }
+}
